@@ -1,8 +1,9 @@
-import './App.css';
+import Header from "./Components/Header";
 
 function App() {
   return (
-    <div className="App">
+    <div>
+      <Header/>
       Learn more with Prolearn
     </div>
   );
